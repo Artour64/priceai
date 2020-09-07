@@ -1,0 +1,17 @@
+    Row Fields:
+    Date Stamp,Time Stamp,Bar OPEN Bid Quote,Bar HIGH Bid Quote,Bar LOW Bid Quote,Bar CLOSE Bid Quote,Volume
+
+    Date Stamp Format:
+    YYYY.MM.DD
+
+    Time Stamp Format:
+    HH:MM
+
+    Legend:
+    YYYY – Year
+    MM – Month (01 to 12)
+    DD – Day of the Month
+    HH – Hour of the day (in 24h format)
+    MM – Minute
+
+TimeZone: Eastern Standard Time (EST) time-zone WITHOUT Day Light Savings adjustments
